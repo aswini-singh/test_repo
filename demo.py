@@ -1,2 +1,3 @@
+x=100
+print(f"value of x is :: {x}")
 print("Hello World!")
-print("This is new line")
